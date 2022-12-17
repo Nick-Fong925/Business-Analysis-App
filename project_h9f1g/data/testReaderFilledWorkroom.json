@@ -1,0 +1,39 @@
+{
+    "totalProfit": 0,
+    "StockList": [
+        {
+            "margin": 0,
+            "revenue": 1,
+            "quantity": 1,
+            "buyP": 1,
+            "name": "hat",
+            "sellP": 1,
+            "profit": 0
+        },
+        {
+            "margin": 0,
+            "revenue": 1,
+            "quantity": 1,
+            "buyP": 1,
+            "name": "shirt",
+            "sellP": 1,
+            "profit": 0
+        }
+    ],
+    "revAndProfit": [
+        "\nItem name: hat",
+        "Profit: 0.0",
+        "Revenue: 1.0",
+        "\nItem name: shirt",
+        "Profit: 0.0",
+        "Revenue: 1.0"
+    ],
+    "quanAndMarg": [
+        "\nItem name: hat",
+        "Quantity: 1",
+        "Profit Margin: 0.0",
+        "\nItem name: shirt",
+        "Quantity: 1",
+        "Profit Margin: 0.0"
+    ]
+}

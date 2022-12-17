@@ -1,0 +1,75 @@
+{
+    "totalProfit": 12,
+    "StockList": [
+        {
+            "margin": 0.5,
+            "revenue": 6,
+            "quantity": 3,
+            "buyP": 1,
+            "name": "hat",
+            "sellP": 2,
+            "profit": 3
+        },
+        {
+            "margin": 0.5,
+            "revenue": 6,
+            "quantity": 3,
+            "buyP": 1,
+            "name": "shoe",
+            "sellP": 2,
+            "profit": 3
+        },
+        {
+            "margin": 0.5,
+            "revenue": 6,
+            "quantity": 3,
+            "buyP": 1,
+            "name": "boot",
+            "sellP": 2,
+            "profit": 3
+        },
+        {
+            "margin": 0.5,
+            "revenue": 6,
+            "quantity": 3,
+            "buyP": 1,
+            "name": "gun",
+            "sellP": 2,
+            "profit": 3
+        }
+    ],
+    "revAndProfit": [
+        "\nItem name: hat",
+        "Profit: 3.0",
+        "Revenue: 6.0",
+        "\nItem name: shoe",
+        "Profit: 3.0",
+        "Revenue: 6.0",
+        "\nItem name: boot",
+        "Profit: 3.0",
+        "Revenue: 6.0",
+        "\nItem name: gun",
+        "Profit: 3.0",
+        "Revenue: 6.0"
+    ],
+    "nameList": [
+        "\nhat",
+        "\nshoe",
+        "\nboot",
+        "\ngun"
+    ],
+    "quanAndMarg": [
+        "\nItem name: hat",
+        "Quantity: 3",
+        "Profit Margin: 0.5",
+        "\nItem name: shoe",
+        "Quantity: 3",
+        "Profit Margin: 0.5",
+        "\nItem name: boot",
+        "Quantity: 3",
+        "Profit Margin: 0.5",
+        "\nItem name: gun",
+        "Quantity: 3",
+        "Profit Margin: 0.5"
+    ]
+}

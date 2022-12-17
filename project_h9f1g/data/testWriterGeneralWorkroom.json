@@ -1,0 +1,15 @@
+{
+    "totalProfit": 0,
+    "StockList": [{
+        "margin": 0,
+        "revenue": 1,
+        "quantity": 1,
+        "buyP": 1,
+        "name": "hat",
+        "sellP": 1,
+        "profit": 0
+    }],
+    "revAndProfit": [],
+    "nameList": [],
+    "quanAndMarg": []
+}
